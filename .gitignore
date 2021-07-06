@@ -1,0 +1,5 @@
+# dependencies
+/node_modules
+npm-debugging
+.DS_STORE
+/*.env
