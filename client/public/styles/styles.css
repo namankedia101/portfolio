@@ -290,7 +290,7 @@ ul:before {
 
   .typing h1{
     display: inline-block;
-    font-size: 3.5rem;
+    font-size: 2.8rem;
   }
 
   #profile-img {
@@ -383,6 +383,7 @@ ul:before {
   }
 
   .skills h3 {
+    margin-left: .5rem;
     margin-bottom: 8rem;
     text-align: center;
     font-size: 2.3rem;
@@ -429,7 +430,7 @@ ul:before {
 }
 .footer p {
   font-size: 1.5rem;
-  font-weight: 300;
+  font-weight: 400;
   margin-bottom: 3rem;
 }
 .footer h1 {
@@ -439,5 +440,6 @@ ul:before {
 }
 .footer h6{
   margin-top: 8rem;
+  font-weight: 300;
 }
 }
