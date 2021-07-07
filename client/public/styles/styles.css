@@ -364,7 +364,7 @@ ul:before {
     height: 384px;
   }
   .skill-img-div2 {
-    font-size: 1.6rem;
+    font-size: 1.5rem;
     color: #fff;
     height: 384px;
   }
@@ -385,10 +385,10 @@ ul:before {
   .skills h3 {
     margin-bottom: 8rem;
     text-align: center;
-    font-size: 2.5rem;
+    font-size: 2.3rem;
     font-weight: bold;
     color: #caf0f8;
-    letter-spacing: 1.3rem;
+    letter-spacing: 1.1rem;
     line-height: 4rem;
   }
 
@@ -419,6 +419,25 @@ ul:before {
   }
 
   .footer .col-lg-6 .btn-group {
-    margin-left: 2.8rem;
+    margin-left: 1rem;
   }
+ 
+.footer {
+  padding: 6rem 0 0.8rem 0;
+  text-align: center;
+  background-color: #a2aebb;
+}
+.footer p {
+  font-size: 1.5rem;
+  font-weight: 300;
+  margin-bottom: 3rem;
+}
+.footer h1 {
+  margin-left: 0;
+  font-size: 3.5rem;
+  letter-spacing: 1.2rem;
+}
+.footer h6{
+  margin-top: 8rem;
+}
 }
