@@ -290,7 +290,7 @@ ul:before {
 
   .typing h1{
     display: inline-block;
-    font-size: 4rem;
+    font-size: 3.5rem;
   }
 
   #profile-img {
@@ -298,7 +298,7 @@ ul:before {
     margin-left: auto;
     margin-right: auto;
     top:2.5rem;
-    left: 2.5rem;
+    left: .8rem;
     right: 0;
     height: 10rem;
     width: 10rem;
@@ -307,8 +307,7 @@ ul:before {
     animation: fadeInLeft 1000ms ease-in-out;
   }
   .container-fluid {
-    padding-left: 2.3rem;
-    padding-bottom: 10rem;
+    padding: 12rem 0 10rem 0;
   }
   .container-fluid h3 {
     margin-top: 3rem;
@@ -345,7 +344,6 @@ ul:before {
   /* skills */
   .skills {
     background-color: #0f121d;
-
     padding: 7rem 0 18rem 0;
   }
 
@@ -387,11 +385,11 @@ ul:before {
   .skills h3 {
     margin-bottom: 8rem;
     text-align: center;
-    font-size: 3rem;
+    font-size: 2.5rem;
     font-weight: bold;
     color: #caf0f8;
     letter-spacing: 1.3rem;
-    line-height: 6rem;
+    line-height: 4rem;
   }
 
   #mern-img {
